@@ -1,4 +1,4 @@
-# parse-html-js
+# parse-tokenize-html-js
 
 Parser for html files created in javascript.
 Tokenizing terms, no stemming(set to lower case in comment).
