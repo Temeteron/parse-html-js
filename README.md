@@ -8,3 +8,7 @@ Keep number of each term in the vocabulary, print the vocabulary.
 Get frequency for every term.
 
 Function "walkSync" to read all files from a directory.
+
+Run
+  iojs parser.js
+  
